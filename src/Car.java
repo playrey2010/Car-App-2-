@@ -22,7 +22,7 @@ public class Car extends Vehicle{
     }
 
     public String fullName() {
-        return "The " + carColor + " " + modelName;
+        return "A " + carColor + " " + modelName;
     }
 
     public String startUp() {
